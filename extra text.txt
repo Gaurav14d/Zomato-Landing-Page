@@ -1,0 +1,8 @@
+background-position: right center; /* change the direction of the change here */
+https://github.com/pavankpdev/zomato-landing-page-B2
+
+https://zomato-landing-page-notes.vercel.app/
+
+
+shawdow :
+box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
